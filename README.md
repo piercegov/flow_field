@@ -1,7 +1,7 @@
 # Flow Field Simulation in Rust
 ## Introduction
 
-This project is a flow field simulation built in Rust using the Bevy game engine. It visualizes the intriguing patterns of particles moving in a perlin noise field, and creates some pretty cool patterns.
+This project is a flow field simulation built in Rust using the Bevy game engine. It visualizes the intriguing patterns of particles moving in a perlin noise field, and creates some cool looking stuff.
 ## Installation
 ### Requirements
 
